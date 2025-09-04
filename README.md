@@ -6,7 +6,7 @@ By analyzing opinions, emotions, and feedback, we aim to forecast consumer behav
 
  ## Objectives
 
-Collect and preprocess textual data (reviews, tweets, comments).
+Collect and preprocess textual data
 
 Perform sentiment classification (Positive, Negative, Neutral).
 
