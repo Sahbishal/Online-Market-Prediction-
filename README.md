@@ -22,7 +22,7 @@ Programming Language: Python
 
 pandas, numpy – Data handling
 
-nltk, spacy, textblob, transformers – NLP & Sentiment Analysis
+nltk, spacy, textblob, transformers –Natural language Processing and Sentiment Analysis
 
 matplotlib, seaborn, plotly – Visualization
 
